@@ -16,7 +16,7 @@
 Note: Message building is not currently working for MSH segments. Coming soon...
 
 ## Installation
-	go get github.com/dshills/golevel7
+	go get github.com/xnyo/golevel7
 
 ## Usage
 
