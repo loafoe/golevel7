@@ -1,4 +1,4 @@
-module github.com/xnyo/golevel7
+module github.com/loafoe/golevel7
 
 go 1.12
 
